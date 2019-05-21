@@ -14,8 +14,8 @@ p{
     font-family: 'Source Sans Pro', sans-serif;}
 h3{
     font-family: 'Source Sans Pro', sans-serif;
-    border-style: double;}
-
+    border-style: double;
+    text-align: center;}
 a:link{color: #000000;}
 a:visited{color: #000000;}
 a:hover{color: #000000;}
