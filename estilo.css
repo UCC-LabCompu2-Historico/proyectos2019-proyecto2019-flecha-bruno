@@ -1,0 +1,50 @@
+body{background: ghostwhite;}
+#EC{
+    width: 1450px;
+    height: 100px;
+    border-style: double;}
+#TITULOP{
+    font-size: 50px;
+    background: darkred;
+    text-align: center;
+    color:ghostwhite;
+    border-style: double;}
+p{
+    text-align: justify;
+    font-family: 'Source Sans Pro', sans-serif;}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    border-style: double;}
+
+a:link{color: #000000;}
+a:visited{color: #000000;}
+a:hover{color: #000000;}
+a{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;}
+
+.principal{text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;}
+/*ECU1*/
+#T1{
+    text-align: center;
+    border-style: double;
+    border-color: darkred;}
+img{
+    display: block;
+    margin: auto;}
+/*ECU2*/
+.dist{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.imagine{
+    margin-top: 30px;
+    margin-right: 200px;
+}
+#SE{
+    text-align: left;
+}
+
