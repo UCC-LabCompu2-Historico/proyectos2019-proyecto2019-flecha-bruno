@@ -7,7 +7,11 @@
 =======
       <change beforePath="$PROJECT_DIR$/HTML/calculadoraecuaciones1grado.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/calculadoraecuaciones1grado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html" afterDir="false" />
+<<<<<<< HEAD
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+      <change beforePath="$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html" afterDir="false" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +31,16 @@
         <entry file="file://$PROJECT_DIR$/HTML/principal.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="90">
               <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
 =======
             <state relative-caret-position="29">
               <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+=======
+            <state relative-caret-position="170">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
             </state>
           </provider>
         </entry>
@@ -40,17 +49,22 @@
         <entry file="file://$PROJECT_DIR$/HTML/ecuaciones1teorico.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HTML/ecuaciones2teorico.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="420">
               <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="41" selection-end-column="7" />
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+            <state relative-caret-position="268">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="19" selection-end-column="13" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
             </state>
           </provider>
         </entry>
@@ -58,6 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/sistemasdeecuacionesteorico.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="480">
               <caret line="43" column="78" lean-forward="true" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
@@ -71,6 +86,10 @@
             <state relative-caret-position="508">
               <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+            <state relative-caret-position="302">
+              <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
             </state>
           </provider>
         </entry>
@@ -85,30 +104,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/calculadoraecuaciones1grado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="51">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="353">
+              <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="69" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-328" />
+            <state relative-caret-position="119">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -144,12 +169,14 @@
         <option value="$PROJECT_DIR$/HTML/ecuaciones2teorico.html" />
         <option value="$PROJECT_DIR$/HTML/sistemasdeecuacionesteorico.html" />
         <option value="$PROJECT_DIR$/estilo.css" />
-        <option value="$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html" />
+        <option value="$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html" />
         <option value="$PROJECT_DIR$/HTML/calculadoraecuaciones1grado.html" />
+        <option value="$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -159,6 +186,11 @@
     <option name="width" value="1903" />
     <option name="height" value="878" />
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+    <option name="y" value="21" />
+    <option name="width" value="1904" />
+    <option name="height" value="879" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -249,11 +281,16 @@
       <workItem from="1558442977420" duration="2250000" />
 =======
       <workItem from="1558439898037" duration="3534000" />
+<<<<<<< HEAD
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+      <workItem from="1558445422326" duration="599000" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="18479000" />
   </component>
@@ -266,8 +303,15 @@
   <component name="ToolWindowManager">
     <frame x="0" y="18" width="1522" height="702" extended-state="0" />
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
+    <option name="totallyTimeSpent" value="19748000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="17" width="1523" height="703" extended-state="0" />
+    <editor active="true" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.21952862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.21938089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5017544" side_tool="true" weight="0.21952862" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,6 +338,13 @@
     <entry file="file://$PROJECT_DIR$/imagenes/SE/MS/T1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/principal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Readme.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -303,41 +354,48 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <entry file="file://$PROJECT_DIR$/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-328" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/principal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+=======
     <entry file="file://$PROJECT_DIR$/HTML/ecuaciones1teorico.html">
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/ecuaciones2teorico.html">
+    <entry file="file://$PROJECT_DIR$/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="41" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+>>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
+    <entry file="file://$PROJECT_DIR$/HTML/ecuaciones1teorico.html">
+=======
+    <entry file="file://$PROJECT_DIR$/HTML/calculadorasistemadeecuaciones.html">
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML/calculadoraecuaciones1grado.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -351,6 +409,7 @@
     <entry file="file://$PROJECT_DIR$/HTML/sistemasdeecuacionesteorico.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="480">
           <caret line="43" column="78" lean-forward="true" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
           <folding>
@@ -362,11 +421,16 @@
 =======
         <state relative-caret-position="508">
           <caret line="36" column="41" lean-forward="true" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+=======
+        <state relative-caret-position="302">
+          <caret line="62" column="8" lean-forward="true" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/calculadoraecuaciones2grado.html">
+    <entry file="file://$PROJECT_DIR$/HTML/ecuaciones2teorico.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="403">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
 >>>>>>> 2876bdcc5daf59fab855d4a9411a9d6c5a0033cb
@@ -386,6 +450,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+=======
+        <state relative-caret-position="268">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="19" selection-end-column="13" />
+>>>>>>> 67f51f76b42ffc5424b04f034e8f9947cc125892
         </state>
       </provider>
     </entry>
