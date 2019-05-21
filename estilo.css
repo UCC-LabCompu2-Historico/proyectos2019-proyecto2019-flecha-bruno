@@ -24,9 +24,6 @@ a{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15px;}
 
-.principal{text-align: center;
-    margin-top: 15px;
-    margin-bottom: 10px;}
 /*ECU1*/
 #T1{
     text-align: center;
@@ -43,8 +40,5 @@ img{
 .imagine{
     margin-top: 30px;
     margin-right: 200px;
-}
-#SE{
-    text-align: left;
 }
 
