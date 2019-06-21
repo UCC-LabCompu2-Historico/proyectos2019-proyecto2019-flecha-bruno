@@ -4,27 +4,35 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="../estilo.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <script language="JavaScript" type="text/javascript" src="ECU2.js"></script>
 </head>
 
 <body>
 <h1 id="T1">Calculadora de ecuaciones de segundo grado</h1>
-<div id="tipo1"><header class="2">Forma 1</header>
 
-<input type="number" name="valor de a">x &#178+
-
-<input type="number" name="valor de b">x+
-
-<input type="number" name="valor de c">=0
+<div>
+<script type="text/javascript">
+    var a= document.getElementById("num1").value;
+    var b= document.getElementById("num2").value;
+    var c= document.getElementById("num3").value;
+    var solution1 =(-b+((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
+    var solution2 =(-b-((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
+    document.getElementById("Solucion 1").value = solution1;
+    document.getElementById("Solucion 2").value = solution1;
+</script>
 </div>
 
-
-<div id="tipo2"><header class="1">Forma 2</header>
-valor de a=<input type="number" name="valor de a"><br>
-
-valor de b=<input type="number" name="valor de b"><br>
-
-valor de c=<input type="number" name="valor de c"><br>
-</div>
-<canvas id="segundogrado" width="200" height="100" ></canvas>
 </body>
 </html>
+
+
+<div >
+    Valor de a=<input id="num1" name="num1">
+
+    Valor de b=<input id="num2" name="num2">
+
+    Valor de c=<input id="num3" name="num3">
+    <a class="btn btn-primary btn-lg" href='javascript:;' onclick="ECU2;" role="button">
+        CALCULAR &raquo;
+    </a>
+</div>

@@ -6,8 +6,15 @@
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 </head>
 <body>
-<h1>Calculadora de sistemas de ecuaciones</h1>
-<canvas id="sistemasdeecuaciones" width="200" height="100" ></canvas>
-
+<h1 id="T1">Calculadora de sistemas de ecuaciones</h1>
+<div>
+    <script>
+    var gui = require('nw.gui')
+    var nwin = gui.Window.get()
+    window.onload = function() {
+        nwin.show()
+        nwin.maximize()}
+    </script>
+</div>
 </body>
 </html>
