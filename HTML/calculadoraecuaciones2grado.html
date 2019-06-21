@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="../estilo.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
-    <script language="JavaScript" type="text/javascript" src="ECU2.js"></script>
+
 </head>
 
 <body>
@@ -12,27 +12,16 @@
 
 <div>
 <script type="text/javascript">
-    var a= document.getElementById("num1").value;
-    var b= document.getElementById("num2").value;
-    var c= document.getElementById("num3").value;
+    var a= parseInt(prompt("variable a"));
+    var b= parseInt(prompt("variable b"));
+    var c= parseInt(prompt("variable c"));
     var solution1 =(-b+((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
     var solution2 =(-b-((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
-    document.getElementById("Solucion 1").value = solution1;
-    document.getElementById("Solucion 2").value = solution1;
+   alert("Solucion 1" +solution1);
+    alert("Solucion 2"-solution2);
 </script>
 </div>
 
 </body>
 </html>
 
-
-<div >
-    Valor de a=<input id="num1" name="num1">
-
-    Valor de b=<input id="num2" name="num2">
-
-    Valor de c=<input id="num3" name="num3">
-    <a class="btn btn-primary btn-lg" href='javascript:;' onclick="ECU2;" role="button">
-        CALCULAR &raquo;
-    </a>
-</div>
