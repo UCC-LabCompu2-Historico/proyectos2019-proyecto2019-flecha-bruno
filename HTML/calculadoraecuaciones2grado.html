@@ -5,23 +5,19 @@
     <link rel="stylesheet" href="../estilo.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
 
+
 </head>
 
 <body>
-<h1 id="T1">Calculadora de ecuaciones de segundo grado</h1>
-
-<div>
-<script type="text/javascript">
-    var a= parseInt(prompt("variable a"));
-    var b= parseInt(prompt("variable b"));
-    var c= parseInt(prompt("variable c"));
-    var solution1 =(-b+((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
-    var solution2 =(-b-((Math.sqrt(Math.pow(b,2)-(4*a*c)))))/(2*a);
-   alert("Solucion 1" +solution1);
-    alert("Solucion 2"-solution2);
-</script>
+<h1 id="T1">Calculadora de ecuaciones de segundo grado</h1><br>
+<div >
+    Valor de a(X*X)=<input type="number" id="num1" name="num1">
+    Valor de b(X)=<input type="number" id="num2" name="num2">
+    Valor de c=<input type="number" id="num3" name="num3"><br>
 </div>
+<input type="button" value="resolver" onclick="resolver()">
+<script  type="text/javascript" src="../javascript/ECU2.js">
+</script>
 
 </body>
 </html>
-
