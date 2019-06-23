@@ -3,4 +3,4 @@ Proyecto Lab. Computacion II-2019
 Alumnos: Bruno Augusto-Flecha Facundo
 Tema ECUACIONES.
 
-Objetivos: desarrollo du una pagina utilizando HTML, CSS y JavaScript.
+Objetivos: desarrollo de una pagina utilizando HTML, CSS y JavaScript.
