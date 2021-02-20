@@ -1,9 +1,13 @@
 function resolver1() {
-    var resultado;
+    var resultado;var a,b,c,d;
     var a= parseFloat(document.getElementById("num1").value);
     var b= parseFloat(document.getElementById("num2").value);
     var c= parseFloat(document.getElementById("num3").value);
     var d= parseFloat(document.getElementById("num4").value);
+    if(isNaN(a)) a=0;
+    if(isNaN(b)) b=0;
+    if(isNaN(c)) c=0;
+    if(isNaN(d)) d=0;
     if(c===0&&a===0){document.write("No existe x ")}
     else if(a===c){document.write("No existe x ")}
     else if(a===1&&c===0&&d===0){resultado=(-1*b);document.write("x es ="+ resultado)}
