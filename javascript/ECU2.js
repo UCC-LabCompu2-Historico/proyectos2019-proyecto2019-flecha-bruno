@@ -6,6 +6,7 @@ var c= parseFloat(document.getElementById("num3").value);
     if(isNaN(b)) b=0;
     if(isNaN(c)) c=0;
     if(a===0&&b===0){document.write("no hay raices");}
+    if(a===0){document.write("es una raiz de primer grado use el otro metodo");}
     else if (((b*b)+(-4*a*c))>=0) {
     solution1 = ((-1 * b) + ((Math.sqrt(Math.pow(b, 2) - (4 * a * c))))) / (2 * a);
     solution2 = ((-1 * b) - ((Math.sqrt(Math.pow(b, 2) - (4 * a * c))))) / (2 * a);
