@@ -14,7 +14,8 @@
 
         for(j=1;j<=4;j++)
 
-    { a[i][j]=parseFloat(document.forms[0][4*i+j-5].value) }
+    { a[i][j]=parseFloat(document.forms[0][4*i+j-5].value);
+    if(isNaN(a[i][j]))a[i][j]=0;}
 
     }
 
