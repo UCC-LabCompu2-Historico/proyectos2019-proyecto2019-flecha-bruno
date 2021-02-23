@@ -6,9 +6,9 @@
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <script type="text/javascript">
         var posx=30;
-        var posy=30;
+        var posy=30;var a=1;var b=2;
         function animacion(){
-            setInterval(dibuja,50);
+            setInterval(dibuja,25);
         }
         function dibuja() {
             var canvas = document.getElementById("lienzo");
@@ -16,10 +16,12 @@
             canvas.width=canvas.width
             conTexto.font="30px arial";
             conTexto.fillStyle="red";
-            posx=posx+2;
-            posy=posy+1;
-            if(posx>=canvas.width-30)posx = 30;
-            if(posy>=canvas.height-30)posy = 30;
+            posx=posx+b;
+            posy=posy+a;
+            if(posx>=canvas.width-300)b*=-1;
+            if(posy<=30)a*=-1;
+            if(posy>=canvas.height-30)a*=-1;
+            if(posx<=30)b*=-1;
             conTexto.fillText("SISTEMAS DE ECUACIONES", posx,posy,300,300);
             ;
         }
