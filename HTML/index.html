@@ -4,10 +4,31 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="../estilo.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+    <script type="text/javascript">
+        var posx=30;
+        var posy=30;
+        function animacion(){
+            setInterval(dibuja,50);
+        }
+        function dibuja() {
+            var canvas = document.getElementById("lienzo");
+            var conTexto = canvas.getContext('2d');
+            canvas.width=canvas.width
+            conTexto.font="30px arial";
+            conTexto.fillStyle="red";
+            posx=posx+2;
+            posy=posy+1;
+            if(posx>=canvas.width-30)posx = 30;
+            if(posy>=canvas.height-30)posy = 30;
+            conTexto.fillText("SISTEMAS DE ECUACIONES", posx,posy,300,300);
+            ;
+        }
+    </script>
 </head>
-<body>
+<body onload="dibuja();animacion();">
+<canvas class="tl" id="lienzo" width=1500 height="150"></canvas>
 <div>
-    <h1 id="TITULOP">Ecuaciones y sistemas de ecuaciones</h1>
+   <!-- <h1 id="TITULOP">Ecuaciones y sistemas de ecuaciones</h1>-->
     <p>
         "Una ecuación es una igualdad matemática entre dos expresiones,
         denominadas miembros y separadas por el signo igual, en las que aparecen elementos conocidos o datos desconocidos o incógnitas, relacionados mediante operaciones matemáticas.
